@@ -1,7 +1,7 @@
 # Skills Showcase Widget
 Showcase your skills and tech on your portfolio website with this HTML5 and CSS3, responsive (mobile friendly) widget.
 
-I created this for my perfolio website; you can see it in action at: [SJBell.com](https://sjbell.com "SJBell Portfolio")
+I created this for my portfolio website; you can see it in action at [SJBell.com](https://sjbell.com "SJBell Portfolio")
 
 Main files:
 - [skills.html](https://github.com/sjbell/skills_showcase_widget/blob/main/skills.html "skills.html")
