@@ -1,5 +1,5 @@
 # Skills Showcase Widget
-Showcase skills and tech on your portfolio website with this HTML3 and CSS3 responsive (mobile friendly) widget.
+Showcase your skills and tech on your portfolio website with this HTML3 and CSS3 responsive (mobile friendly) widget.
 
 ## Desktop Screenshot:
 ![Desktop screenshot](https://github.com/sjbell/skills_showcase_widget/blob/main/skills-desktop.png?raw=true "Desktop screenshot")
