@@ -8,6 +8,6 @@ Showcase skills and tech on your portfolio website with this HTML3 and CSS3 resp
 ![Mobile screenshot](https://github.com/sjbell/skills_showcase_widget/blob/main/skills-mobile.png?raw=true "Mobile screenshot")
 
 ## SVC Icons:
-- https://devicon.dev
-- https://fontawesome.com
-- https://icons.getbootstrap.com
+- [devicon.dev](https://devicon.dev "Devicon")
+- [fontawesome.com](https://fontawesome.com "Fontawesome")
+- [icons.getbootstrap.com](https://icons.getbootstrap.com "Bootstrap Icons")
