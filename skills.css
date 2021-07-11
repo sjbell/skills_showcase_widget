@@ -7,6 +7,7 @@
 	--highlight: #0A6FC2;
 
 }
+
 * {
 
 	margin: 0;
@@ -46,7 +47,8 @@ body {
 .skill_row {
 
 	display: flex;
-	flex-direction: row;}
+	flex-direction: row;
+}
 
 .skill_row .left_col, .skill_row .right_col  {
  
@@ -71,7 +73,6 @@ body {
 	min-width: 75px;
 	margin-bottom: 5px;
 	
-	
 }
 
 .skill_name {
@@ -81,7 +82,9 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	transition: all .2s ease-in 0s;}
+	transition: all .2s ease-in 0s;
+
+}
 
 .skill_name i {
 	
@@ -115,7 +118,9 @@ body {
 
 .green-bg {
 	
-	background: #048B59;}
+	background: #048B59;
+
+}
 
 .blue-bg {
 	
