@@ -4,10 +4,10 @@ Showcase your skills and tech on your portfolio website with this HTML5 and CSS3
 I created this for my perfolio website, so you can see it in action at: [SJBell.com](https://sjbell.com "SJBell Portfolio")
 
 ## Desktop Screenshot:
-![Desktop screenshot](https://github.com/sjbell/skills_showcase_widget/blob/main/screenshots/screenshot-skills-mobile-desktop.png?raw=true "Desktop screenshot")
+![Desktop screenshot](https://github.com/sjbell/skills_showcase_widget/blob/main/screenshots/screenshot-skills-showcase-desktop.png?raw=true "Desktop screenshot")
 
 ## Mobile Screenshot:
-![Mobile screenshot](https://github.com/sjbell/skills_showcase_widget/blob/main/screenshot/screenshot-skills-showcase-mobile.png?raw=true "Mobile screenshot")
+![Mobile screenshot](https://github.com/sjbell/skills_showcase_widget/blob/main/screenshots/screenshot-skills-showcase-mobile.png?raw=true "Mobile screenshot")
 
 ## SVC Icons:
 - [devicon.dev](https://devicon.dev "Devicon")
