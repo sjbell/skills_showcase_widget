@@ -1,0 +1,159 @@
+:root {
+
+	--background: #292f36;
+	--background-secondary: #353b43;
+	--background-element: #242930;
+	--header: #1d2024;--color: #afbac4;
+	--highlight: #0A6FC2;
+
+}
+* {
+
+	margin: 0;
+	padding: 0;
+
+}
+
+body {
+
+	background-color: #121212;
+	background-color: #DCDCDC;
+	background-color: var(--background);color: var(--color);font-family: sans-serif;
+	font-size: 20px;
+	line-height: 1.3;
+
+}
+
+#skills_list {
+	
+	margin: 0 auto;
+	list-style: none;
+	display: inline;
+	text-align: center;
+	
+}
+
+.skills_box {
+	
+	display: table;
+	margin: 40px auto;
+	color: #fff;
+	cursor: default;
+	font-size: 1.2rem;
+	
+}
+
+.skill_row {
+
+	display: flex;
+	flex-direction: row;}
+
+.skill_row .left_col, .skill_row .right_col  {
+ 
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	
+}
+
+.skill_row .right_col {
+	
+	flex-grow: 1;
+	
+}
+
+.skill_type {
+	
+	background: var(--background-element);
+	color: #ccc;
+	padding: 5px 10px;
+	max-width: 160px;
+	min-width: 75px;
+	margin-bottom: 5px;
+	
+	
+}
+
+.skill_name {
+	
+	padding: 6px 10px;margin-left: 5px;
+	margin-bottom: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	transition: all .2s ease-in 0s;}
+
+.skill_name i {
+	
+	margin-right: 7px;
+	font-size: 1.75rem;
+	
+}
+
+.skill_name svg {
+	
+	width: 30px;
+	height: 30px;
+	margin-right: 7px;
+	fill: #fff;
+	transition: all .2s ease-in 0s;
+	
+}
+
+.skill_name:hover {
+	
+	background: #fff;
+	color: var(--background);
+	
+}
+
+.skill_name:hover > svg {
+	
+	fill: var(--background)!important;
+	
+}
+
+.green-bg {
+	
+	background: #048B59;}
+
+.blue-bg {
+	
+	background: #0C85E9;
+	
+}
+
+.orange-bg {
+	
+	background: #E06900;
+	
+}
+
+.yellow-bg {
+	
+	background: #805FD3;
+	
+}
+
+.red-bg {
+	
+	background: #E00B00;
+	
+}
+
+@media screen and (max-width: 600px) {
+
+	.skills_box {
+		
+		font-size: 0.7rem;
+		
+	}
+
+	.skill_name svg {
+		
+		width: 20px;
+		height: 20px;
+
+	}
+	
+}
